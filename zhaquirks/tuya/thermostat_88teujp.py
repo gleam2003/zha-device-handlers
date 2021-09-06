@@ -171,6 +171,7 @@ class Thermostat_TYST11_c88teujp(TuyaThermostat):
             ("_TYST11_KGbxAXL2", "GbxAXL2"),
             ("_TYST11_zuhszj9s", "uhszj9s"),
             ("_TYST11_yw7cahqs", "w7cahqs"),
+            ("_TZE200_c88teujp", "TS0601"),
         ],
         ENDPOINTS: {
             1: {
